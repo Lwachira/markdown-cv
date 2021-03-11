@@ -1,24 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lincoln Gachagua's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lincoln Gachagua
+Full Stack Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://github.com/Lwachira">My Github Profile</a>
 </div>
 
 
-## Currently
+## Currently working at 
 
-Standing on the shoulders of giants
+LexisNexis South Africa
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+C#, React, PostgreSQL, .NET Core, GraphQL, Next.js, SSIS, Agile, SOAP API Design, RESTful API Design, JavaScript, Node.js
 
 ### Research interests
 
